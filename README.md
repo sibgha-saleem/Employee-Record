@@ -12,4 +12,5 @@ It can add data at beginning, at end, before user entered ID  and after user ent
 No limit for adding record.  
 Error handling is done.  
 
-## Sreenshot
+## Screenshot
+<img src="https://github.com/sibgha-saleem/Foodelicious-Website/blob/main/image.png" width="800">  
