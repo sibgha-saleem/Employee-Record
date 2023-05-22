@@ -13,4 +13,4 @@ No limit for adding record.
 Error handling is done.  
 
 ## Screenshot
-<img src="https://github.com/sibgha-saleem/Foodelicious-Website/blob/main/image.png" width="800">  
+<img src="https://github.com/sibgha-saleem/Employee-Record/blob/main/image.png" width="800">  
